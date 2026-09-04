@@ -1,3 +1,5 @@
+> **This repo has moved.** ClickPlanet is now a monorepo at [github.com/raphoester/clickplanet](https://github.com/raphoester/clickplanet) (this app lives under `apps/backend`, with full history preserved). This repo is archived and read-only.
+
 # ClickPlanet — Backend
 
 Backend for [clickplanet.lol](https://clickplanet.lol), a real-time multiplayer game where countries compete to own tiles on a world map. Written in Go.
